@@ -53,7 +53,7 @@ namespace ch30_탭컨트롤_모달_모달리스 {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/ch30 탭컨트롤 모달 모달리스;component/window1.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/ch30 탭컨트롤 모달 모달리스;V1.0.0.0;component/window1.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\Window1.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
