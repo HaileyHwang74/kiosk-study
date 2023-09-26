@@ -1,0 +1,60 @@
+D:\Lecture\ch28 영어단어맞추기\ch28 영어단어맞추기\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\Lecture\ch28 영어단어맞추기\ch28 영어단어맞추기\obj\Debug\net7.0-windows\App.g.cs
+D:\Lecture\ch28 영어단어맞추기\ch28 영어단어맞추기\obj\Debug\net7.0-windows\ch28 영어단어맞추기_MarkupCompile.cache
+D:\Lecture\ch28 영어단어맞추기\ch28 영어단어맞추기\obj\Debug\net7.0-windows\ch28 영어단어맞추기_MarkupCompile.lref
+D:\Lecture\ch28 영어단어맞추기\ch28 영어단어맞추기\bin\Debug\net7.0-windows\ch28 영어단어맞추기.exe
+D:\Lecture\ch28 영어단어맞추기\ch28 영어단어맞추기\bin\Debug\net7.0-windows\ch28 영어단어맞추기.deps.json
+D:\Lecture\ch28 영어단어맞추기\ch28 영어단어맞추기\bin\Debug\net7.0-windows\ch28 영어단어맞추기.runtimeconfig.json
+D:\Lecture\ch28 영어단어맞추기\ch28 영어단어맞추기\bin\Debug\net7.0-windows\ch28 영어단어맞추기.dll
+D:\Lecture\ch28 영어단어맞추기\ch28 영어단어맞추기\bin\Debug\net7.0-windows\ch28 영어단어맞추기.pdb
+D:\Lecture\ch28 영어단어맞추기\ch28 영어단어맞추기\obj\Debug\net7.0-windows\MainWindow.baml
+D:\Lecture\ch28 영어단어맞추기\ch28 영어단어맞추기\obj\Debug\net7.0-windows\ch28 영어단어맞추기.g.resources
+D:\Lecture\ch28 영어단어맞추기\ch28 영어단어맞추기\obj\Debug\net7.0-windows\ch28 영어단어맞추기.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lecture\ch28 영어단어맞추기\ch28 영어단어맞추기\obj\Debug\net7.0-windows\ch28 영어단어맞추기.AssemblyInfoInputs.cache
+D:\Lecture\ch28 영어단어맞추기\ch28 영어단어맞추기\obj\Debug\net7.0-windows\ch28 영어단어맞추기.AssemblyInfo.cs
+D:\Lecture\ch28 영어단어맞추기\ch28 영어단어맞추기\obj\Debug\net7.0-windows\ch28 영어단어맞추기.csproj.CoreCompileInputs.cache
+D:\Lecture\ch28 영어단어맞추기\ch28 영어단어맞추기\obj\Debug\net7.0-windows\ch28 영어단어맞추기.dll
+D:\Lecture\ch28 영어단어맞추기\ch28 영어단어맞추기\obj\Debug\net7.0-windows\refint\ch28 영어단어맞추기.dll
+D:\Lecture\ch28 영어단어맞추기\ch28 영어단어맞추기\obj\Debug\net7.0-windows\ch28 영어단어맞추기.pdb
+D:\Lecture\ch28 영어단어맞추기\ch28 영어단어맞추기\obj\Debug\net7.0-windows\ch28 영어단어맞추기.genruntimeconfig.cache
+D:\Lecture\ch28 영어단어맞추기\ch28 영어단어맞추기\obj\Debug\net7.0-windows\ref\ch28 영어단어맞추기.dll
+D:\Lecture\HelloWPF\ch28 영어단어맞추기\bin\Debug\net7.0-windows\ch28 영어단어맞추기.exe
+D:\Lecture\HelloWPF\ch28 영어단어맞추기\bin\Debug\net7.0-windows\ch28 영어단어맞추기.deps.json
+D:\Lecture\HelloWPF\ch28 영어단어맞추기\bin\Debug\net7.0-windows\ch28 영어단어맞추기.runtimeconfig.json
+D:\Lecture\HelloWPF\ch28 영어단어맞추기\bin\Debug\net7.0-windows\ch28 영어단어맞추기.dll
+D:\Lecture\HelloWPF\ch28 영어단어맞추기\bin\Debug\net7.0-windows\ch28 영어단어맞추기.pdb
+D:\Lecture\HelloWPF\ch28 영어단어맞추기\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\Lecture\HelloWPF\ch28 영어단어맞추기\obj\Debug\net7.0-windows\App.g.cs
+D:\Lecture\HelloWPF\ch28 영어단어맞추기\obj\Debug\net7.0-windows\ch28 영어단어맞추기_MarkupCompile.cache
+D:\Lecture\HelloWPF\ch28 영어단어맞추기\obj\Debug\net7.0-windows\ch28 영어단어맞추기_MarkupCompile.lref
+D:\Lecture\HelloWPF\ch28 영어단어맞추기\obj\Debug\net7.0-windows\MainWindow.baml
+D:\Lecture\HelloWPF\ch28 영어단어맞추기\obj\Debug\net7.0-windows\ch28 영어단어맞추기.g.resources
+D:\Lecture\HelloWPF\ch28 영어단어맞추기\obj\Debug\net7.0-windows\ch28 영어단어맞추기.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lecture\HelloWPF\ch28 영어단어맞추기\obj\Debug\net7.0-windows\ch28 영어단어맞추기.AssemblyInfoInputs.cache
+D:\Lecture\HelloWPF\ch28 영어단어맞추기\obj\Debug\net7.0-windows\ch28 영어단어맞추기.AssemblyInfo.cs
+D:\Lecture\HelloWPF\ch28 영어단어맞추기\obj\Debug\net7.0-windows\ch28 영어단어맞추기.csproj.CoreCompileInputs.cache
+D:\Lecture\HelloWPF\ch28 영어단어맞추기\obj\Debug\net7.0-windows\ch28 영어단어맞추기.dll
+D:\Lecture\HelloWPF\ch28 영어단어맞추기\obj\Debug\net7.0-windows\refint\ch28 영어단어맞추기.dll
+D:\Lecture\HelloWPF\ch28 영어단어맞추기\obj\Debug\net7.0-windows\ch28 영어단어맞추기.pdb
+D:\Lecture\HelloWPF\ch28 영어단어맞추기\obj\Debug\net7.0-windows\ch28 영어단어맞추기.genruntimeconfig.cache
+D:\Lecture\HelloWPF\ch28 영어단어맞추기\obj\Debug\net7.0-windows\ref\ch28 영어단어맞추기.dll
+D:\Lecture\Kiosk\ch28 영어단어 맞추기\bin\Debug\net7.0-windows\ch28 영어단어맞추기.exe
+D:\Lecture\Kiosk\ch28 영어단어 맞추기\bin\Debug\net7.0-windows\ch28 영어단어맞추기.deps.json
+D:\Lecture\Kiosk\ch28 영어단어 맞추기\bin\Debug\net7.0-windows\ch28 영어단어맞추기.runtimeconfig.json
+D:\Lecture\Kiosk\ch28 영어단어 맞추기\bin\Debug\net7.0-windows\ch28 영어단어맞추기.dll
+D:\Lecture\Kiosk\ch28 영어단어 맞추기\bin\Debug\net7.0-windows\ch28 영어단어맞추기.pdb
+D:\Lecture\Kiosk\ch28 영어단어 맞추기\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\Lecture\Kiosk\ch28 영어단어 맞추기\obj\Debug\net7.0-windows\App.g.cs
+D:\Lecture\Kiosk\ch28 영어단어 맞추기\obj\Debug\net7.0-windows\ch28 영어단어맞추기_MarkupCompile.cache
+D:\Lecture\Kiosk\ch28 영어단어 맞추기\obj\Debug\net7.0-windows\ch28 영어단어맞추기_MarkupCompile.lref
+D:\Lecture\Kiosk\ch28 영어단어 맞추기\obj\Debug\net7.0-windows\MainWindow.baml
+D:\Lecture\Kiosk\ch28 영어단어 맞추기\obj\Debug\net7.0-windows\ch28 영어단어맞추기.g.resources
+D:\Lecture\Kiosk\ch28 영어단어 맞추기\obj\Debug\net7.0-windows\ch28 영어단어맞추기.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lecture\Kiosk\ch28 영어단어 맞추기\obj\Debug\net7.0-windows\ch28 영어단어맞추기.AssemblyInfoInputs.cache
+D:\Lecture\Kiosk\ch28 영어단어 맞추기\obj\Debug\net7.0-windows\ch28 영어단어맞추기.AssemblyInfo.cs
+D:\Lecture\Kiosk\ch28 영어단어 맞추기\obj\Debug\net7.0-windows\ch28 영어단어맞추기.csproj.CoreCompileInputs.cache
+D:\Lecture\Kiosk\ch28 영어단어 맞추기\obj\Debug\net7.0-windows\ch28 영어단어맞추기.dll
+D:\Lecture\Kiosk\ch28 영어단어 맞추기\obj\Debug\net7.0-windows\refint\ch28 영어단어맞추기.dll
+D:\Lecture\Kiosk\ch28 영어단어 맞추기\obj\Debug\net7.0-windows\ch28 영어단어맞추기.pdb
+D:\Lecture\Kiosk\ch28 영어단어 맞추기\obj\Debug\net7.0-windows\ch28 영어단어맞추기.genruntimeconfig.cache
+D:\Lecture\Kiosk\ch28 영어단어 맞추기\obj\Debug\net7.0-windows\ref\ch28 영어단어맞추기.dll
