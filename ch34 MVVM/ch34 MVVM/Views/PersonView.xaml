@@ -1,0 +1,29 @@
+﻿<Window x:Class="ch34_MVVM.Views.PersonView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ch34_MVVM.Views"
+        mc:Ignorable="d"
+        Title="PersonView" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <ListView x:Name="lv" ItemsSource="{Binding PersonList}"
+        Grid.Row="0" >
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="이름" DisplayMemberBinding="{Binding Name}" Width="150"/>
+                    <GridViewColumn Header="나이" DisplayMemberBinding="{Binding Age}" Width="150"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <StackPanel Orientation="Horizontal" Grid.Row="1" HorizontalAlignment="Center">
+            <!-- TextBlock 으로 하면 Text 수정 안 됨, 당연히 TextBox로 해야함 , 이거 그렇다면 DB에서 데이터 가져올 때 잘 생각해보기-->
+            <TextBox Name="tbox1" Width ="150" Text="{Binding ElementName=lv, Path=SelectedItem.Name, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+            <TextBox Width ="150" Text="{Binding ElementName=lv, Path=SelectedItem.Age, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+        </StackPanel>
+    </Grid>
+</Window>

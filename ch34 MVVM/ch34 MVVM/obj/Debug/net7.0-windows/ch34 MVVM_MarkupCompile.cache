@@ -1,5 +1,5 @@
 ﻿ch34 MVVM
-1.0.0.0
+
 
 winexe
 C#
@@ -12,9 +12,9 @@ TRACE;DEBUG;NET;NET7_0;NETCOREAPP
 D:\Lecture\Kiosk-Study\ch34 MVVM\ch34 MVVM\App.xaml
 2-131616439
 
-81631102181
+6208969904
 198-759771931
 MainWindow.xaml;Views\PersonView.xaml;
 
-True
+False
 
