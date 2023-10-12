@@ -8,24 +8,19 @@
     "net7.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\이포넷\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\N-238\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Lecture\\Kiosk-Study\\ch34 MVVM\\ch34 MVVM\\ch34 MVVM.csproj",
+      "projectUniqueName": "C:\\Users\\N-238\\Desktop\\kiosk_study\\kiosk-study\\ch34 MVVM\\ch34 MVVM\\ch34 MVVM.csproj",
       "projectName": "ch34 MVVM",
-      "projectPath": "D:\\Lecture\\Kiosk-Study\\ch34 MVVM\\ch34 MVVM\\ch34 MVVM.csproj",
-      "packagesPath": "C:\\Users\\이포넷\\.nuget\\packages\\",
-      "outputPath": "D:\\Lecture\\Kiosk-Study\\ch34 MVVM\\ch34 MVVM\\obj\\",
+      "projectPath": "C:\\Users\\N-238\\Desktop\\kiosk_study\\kiosk-study\\ch34 MVVM\\ch34 MVVM\\ch34 MVVM.csproj",
+      "packagesPath": "C:\\Users\\N-238\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\N-238\\Desktop\\kiosk_study\\kiosk-study\\ch34 MVVM\\ch34 MVVM\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\이포넷\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\N-238\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

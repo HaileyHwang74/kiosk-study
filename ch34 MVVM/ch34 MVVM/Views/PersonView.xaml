@@ -24,6 +24,12 @@
             <!-- TextBlock 으로 하면 Text 수정 안 됨, 당연히 TextBox로 해야함 , 이거 그렇다면 DB에서 데이터 가져올 때 잘 생각해보기-->
             <TextBox Name="tbox1" Width ="150" Text="{Binding ElementName=lv, Path=SelectedItem.Name, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
             <TextBox Width ="150" Text="{Binding ElementName=lv, Path=SelectedItem.Age, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+            <Button
+                Command="{Binding PersonCommand}"
+                CommandParameter="{Binding ElementName=tbox1, Path=Text}">
+                버튼
+            </Button>
+            
         </StackPanel>
     </Grid>
 </Window>

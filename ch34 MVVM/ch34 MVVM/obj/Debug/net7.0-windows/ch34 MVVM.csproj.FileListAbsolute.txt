@@ -20,3 +20,25 @@ D:\Lecture\Kiosk-Study\ch34 MVVM\ch34 MVVM\obj\Debug\net7.0-windows\ch34 MVVM.ge
 D:\Lecture\Kiosk-Study\ch34 MVVM\ch34 MVVM\obj\Debug\net7.0-windows\ref\ch34 MVVM.dll
 D:\Lecture\Kiosk-Study\ch34 MVVM\ch34 MVVM\obj\Debug\net7.0-windows\Views\PersonView.g.cs
 D:\Lecture\Kiosk-Study\ch34 MVVM\ch34 MVVM\obj\Debug\net7.0-windows\Views\PersonView.baml
+C:\Users\N-238\Desktop\kiosk_study\kiosk-study\ch34 MVVM\ch34 MVVM\bin\Debug\net7.0-windows\ch34 MVVM.exe
+C:\Users\N-238\Desktop\kiosk_study\kiosk-study\ch34 MVVM\ch34 MVVM\bin\Debug\net7.0-windows\ch34 MVVM.deps.json
+C:\Users\N-238\Desktop\kiosk_study\kiosk-study\ch34 MVVM\ch34 MVVM\bin\Debug\net7.0-windows\ch34 MVVM.runtimeconfig.json
+C:\Users\N-238\Desktop\kiosk_study\kiosk-study\ch34 MVVM\ch34 MVVM\bin\Debug\net7.0-windows\ch34 MVVM.dll
+C:\Users\N-238\Desktop\kiosk_study\kiosk-study\ch34 MVVM\ch34 MVVM\bin\Debug\net7.0-windows\ch34 MVVM.pdb
+C:\Users\N-238\Desktop\kiosk_study\kiosk-study\ch34 MVVM\ch34 MVVM\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\N-238\Desktop\kiosk_study\kiosk-study\ch34 MVVM\ch34 MVVM\obj\Debug\net7.0-windows\Views\PersonView.g.cs
+C:\Users\N-238\Desktop\kiosk_study\kiosk-study\ch34 MVVM\ch34 MVVM\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\N-238\Desktop\kiosk_study\kiosk-study\ch34 MVVM\ch34 MVVM\obj\Debug\net7.0-windows\ch34 MVVM_MarkupCompile.cache
+C:\Users\N-238\Desktop\kiosk_study\kiosk-study\ch34 MVVM\ch34 MVVM\obj\Debug\net7.0-windows\ch34 MVVM_MarkupCompile.lref
+C:\Users\N-238\Desktop\kiosk_study\kiosk-study\ch34 MVVM\ch34 MVVM\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\N-238\Desktop\kiosk_study\kiosk-study\ch34 MVVM\ch34 MVVM\obj\Debug\net7.0-windows\Views\PersonView.baml
+C:\Users\N-238\Desktop\kiosk_study\kiosk-study\ch34 MVVM\ch34 MVVM\obj\Debug\net7.0-windows\ch34 MVVM.g.resources
+C:\Users\N-238\Desktop\kiosk_study\kiosk-study\ch34 MVVM\ch34 MVVM\obj\Debug\net7.0-windows\ch34 MVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\N-238\Desktop\kiosk_study\kiosk-study\ch34 MVVM\ch34 MVVM\obj\Debug\net7.0-windows\ch34 MVVM.AssemblyInfoInputs.cache
+C:\Users\N-238\Desktop\kiosk_study\kiosk-study\ch34 MVVM\ch34 MVVM\obj\Debug\net7.0-windows\ch34 MVVM.AssemblyInfo.cs
+C:\Users\N-238\Desktop\kiosk_study\kiosk-study\ch34 MVVM\ch34 MVVM\obj\Debug\net7.0-windows\ch34 MVVM.csproj.CoreCompileInputs.cache
+C:\Users\N-238\Desktop\kiosk_study\kiosk-study\ch34 MVVM\ch34 MVVM\obj\Debug\net7.0-windows\ch34 MVVM.dll
+C:\Users\N-238\Desktop\kiosk_study\kiosk-study\ch34 MVVM\ch34 MVVM\obj\Debug\net7.0-windows\refint\ch34 MVVM.dll
+C:\Users\N-238\Desktop\kiosk_study\kiosk-study\ch34 MVVM\ch34 MVVM\obj\Debug\net7.0-windows\ch34 MVVM.pdb
+C:\Users\N-238\Desktop\kiosk_study\kiosk-study\ch34 MVVM\ch34 MVVM\obj\Debug\net7.0-windows\ch34 MVVM.genruntimeconfig.cache
+C:\Users\N-238\Desktop\kiosk_study\kiosk-study\ch34 MVVM\ch34 MVVM\obj\Debug\net7.0-windows\ref\ch34 MVVM.dll
