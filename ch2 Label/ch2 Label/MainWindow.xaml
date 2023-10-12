@@ -1,0 +1,44 @@
+﻿<Window x:Class="ch2_Label.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ch2_Label"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <!--StackPanel : 컨트롤러를 쌓아주는 역할-->
+        <StackPanel Orientation="Vertical" >
+            <!-- Label : 짧은 문자를 넣는데 적합-->
+            <Label HorizontalContentAlignment="Center">안녕하세요</Label>
+            <Label HorizontalContentAlignment="Left">안녕하세요</Label>
+            <Label HorizontalContentAlignment="Right">안녕하세요</Label>
+            <Label HorizontalContentAlignment="Stretch">안녕하세요</Label>
+            <Label HorizontalContentAlignment="Center">안녕하세요</Label>
+            <Label HorizontalAlignment="Center">안녕하세요</Label>
+            <Label HorizontalAlignment="Center">안녕하세요</Label>
+            <Label HorizontalAlignment="Right">안녕하세요</Label>
+            <Label HorizontalAlignment="Stretch">안녕하세요</Label>
+            <Label>
+                <StackPanel Orientation="Horizontal">
+           
+                    <Image Width="30" Source="https://cdn4.iconfinder.com/data/icons/music-ui-solid-24px/24/mail_email_inbox_message-2-512.png">
+                    </Image>
+                    <AccessText Text="원하는 문자열" FontSize="20"/>
+                </StackPanel>
+            </Label>
+            <!-- Label은 textbox와 잘 어울림-->
+            <Label
+                Content="Hello"
+                FontSize="30"
+                FontWeight="Bold"
+                Background="Salmon"
+                Foreground="White"
+                > 
+            </Label>
+            <!-- 이렇게 Label과 Textbox 같이 쓰면 alt + L 단축키 쓰면 textbox로 커서 바로 이동 가능-->
+            <Label Content="_Lbl" Target="{Binding ElementName=tb}"></Label>
+            <TextBox x:Name="tb"></TextBox>
+        </StackPanel>
+    </Grid>
+</Window>

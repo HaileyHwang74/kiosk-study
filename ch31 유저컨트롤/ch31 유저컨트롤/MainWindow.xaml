@@ -4,9 +4,14 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ch31_유저컨트롤"
+        xmlns:local2="clr-namespace:ch31_유저컨트롤.uc"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-
-    </Grid>
+    <StackPanel>
+        <local2:UserControl1 타이틀="제목" 최대글자수="30" 피비높이="20"/>
+        <local2:UserControl1 타이틀="제목" 최대글자수="30" 피비높이="20" x:Name="uc1"/>
+        <local2:UserControl1 타이틀="본문" 최대글자수="150" 피비높이="50" x:Name="uc2"/>
+        <Button Click="Button_Click">버튼1</Button>
+        <Button Click="Button_Click_1">버튼2</Button>
+    </StackPanel>
 </Window>

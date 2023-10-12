@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\N-238\\source\\repos\\ch31 유저컨트롤\\ch31 유저컨트롤\\ch31 유저컨트롤.csproj",
+      "projectUniqueName": "C:\\Users\\N-238\\Desktop\\kiosk_study\\kiosk-study\\ch31 유저컨트롤\\ch31 유저컨트롤\\ch31 유저컨트롤.csproj",
       "projectName": "ch31 유저컨트롤",
-      "projectPath": "C:\\Users\\N-238\\source\\repos\\ch31 유저컨트롤\\ch31 유저컨트롤\\ch31 유저컨트롤.csproj",
+      "projectPath": "C:\\Users\\N-238\\Desktop\\kiosk_study\\kiosk-study\\ch31 유저컨트롤\\ch31 유저컨트롤\\ch31 유저컨트롤.csproj",
       "packagesPath": "C:\\Users\\N-238\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\N-238\\source\\repos\\ch31 유저컨트롤\\ch31 유저컨트롤\\obj\\",
+      "outputPath": "C:\\Users\\N-238\\Desktop\\kiosk_study\\kiosk-study\\ch31 유저컨트롤\\ch31 유저컨트롤\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\N-238\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -24,5 +24,16 @@ namespace ch31_유저컨트롤
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            //userControl 에서 testbox  이름을 txt로 지었기 때문에 .txt  들어간다.
+            MessageBox.Show(uc1.txt.Text);
+        }
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            //userControl 에서 testbox  이름을 txt로 지었기 때문에 .txt  들어간다.
+            MessageBox.Show(uc2.Pb.Value.ToString());
+        }
     }
 }
