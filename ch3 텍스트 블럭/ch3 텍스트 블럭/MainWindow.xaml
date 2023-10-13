@@ -5,13 +5,29 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ch3_텍스트_블럭"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="450" Width="300">
     <Grid>
         <StackPanel>
-            
+            <!-- textBlock은 긴 문자열, label 은 짧은 문자열-->
             <!-- 권장-->
             <TextBlock>안녕하세요</TextBlock>
             <TextBlock Text="안녕하세요"></TextBlock>
+            <!--Line Break : 줄바꿈-->
+            <TextBlock><Bold>안녕</Bold><Italic>하세요.</Italic>
+            <LineBreak/>hello
+                <!--hyper Link 이벤트 처리해줘야함  --> 
+                <Hyperlink RequestNavigate="Hyperlink_RequestNavigate" NavigateUri="https://google.com" Cursor="Hand">구글 바로가기</Hyperlink>
+            </TextBlock>
+
+            <!-- foreground : 글자색-->
+            <TextBlock FontSize="20" Background="Salmon" Foreground="white">O  say <Span Foreground="Black">can</Span> you see, by the dawn's early light,</TextBlock>
+            <!-- ...줄임표시 TextTrimming-->
+            <TextBlock FontSize="20" TextTrimming="CharacterEllipsis">O  say <Span Foreground="Black">can</Span> you see, by the dawn's early light,</TextBlock>
+            <TextBlock FontSize="20" TextTrimming="None">O  say <Span Foreground="Black">can</Span> you see, by the dawn's early light,</TextBlock>
+            <!-- 단어 단위로 trimming 됨-->
+            <TextBlock FontSize="20" TextTrimming="WordEllipsis">O  say <Span Foreground="Black">can</Span> you see, by the dawn's early light,</TextBlock>
+            <TextBlock FontSize="20" TextWrapping="Wrap">O  say <Span Foreground="Black">can</Span> you see, by the dawn's early light,</TextBlock>
+            <TextBlock FontSize="20" TextWrapping="WrapWithOverflow">O  say <Span Foreground="Black">can</Span> you see, <Underline> by the dawn's early light,</Underline></TextBlock>
         </StackPanel>
     </Grid>
 </Window>

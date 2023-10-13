@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\N-238\\Desktop\\kiosk_study\\kiosk-study\\ch3 텍스트 블럭\\ch3 텍스트 블럭\\ch3 텍스트 블럭.csproj",
+      "projectUniqueName": "C:\\Users\\N-238\\Desktop\\기부키오스크\\kiosk_study\\kiosk-study\\ch3 텍스트 블럭\\ch3 텍스트 블럭\\ch3 텍스트 블럭.csproj",
       "projectName": "ch3 텍스트 블럭",
-      "projectPath": "C:\\Users\\N-238\\Desktop\\kiosk_study\\kiosk-study\\ch3 텍스트 블럭\\ch3 텍스트 블럭\\ch3 텍스트 블럭.csproj",
+      "projectPath": "C:\\Users\\N-238\\Desktop\\기부키오스크\\kiosk_study\\kiosk-study\\ch3 텍스트 블럭\\ch3 텍스트 블럭\\ch3 텍스트 블럭.csproj",
       "packagesPath": "C:\\Users\\N-238\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\N-238\\Desktop\\kiosk_study\\kiosk-study\\ch3 텍스트 블럭\\ch3 텍스트 블럭\\obj\\",
+      "outputPath": "C:\\Users\\N-238\\Desktop\\기부키오스크\\kiosk_study\\kiosk-study\\ch3 텍스트 블럭\\ch3 텍스트 블럭\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\N-238\\AppData\\Roaming\\NuGet\\NuGet.Config",

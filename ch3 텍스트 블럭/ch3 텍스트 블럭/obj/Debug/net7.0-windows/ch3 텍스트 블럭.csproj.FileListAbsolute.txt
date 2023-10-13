@@ -1,0 +1,20 @@
+C:\Users\N-238\Desktop\기부키오스크\kiosk_study\kiosk-study\ch3 텍스트 블럭\ch3 텍스트 블럭\bin\Debug\net7.0-windows\ch3 텍스트 블럭.exe
+C:\Users\N-238\Desktop\기부키오스크\kiosk_study\kiosk-study\ch3 텍스트 블럭\ch3 텍스트 블럭\bin\Debug\net7.0-windows\ch3 텍스트 블럭.deps.json
+C:\Users\N-238\Desktop\기부키오스크\kiosk_study\kiosk-study\ch3 텍스트 블럭\ch3 텍스트 블럭\bin\Debug\net7.0-windows\ch3 텍스트 블럭.runtimeconfig.json
+C:\Users\N-238\Desktop\기부키오스크\kiosk_study\kiosk-study\ch3 텍스트 블럭\ch3 텍스트 블럭\bin\Debug\net7.0-windows\ch3 텍스트 블럭.dll
+C:\Users\N-238\Desktop\기부키오스크\kiosk_study\kiosk-study\ch3 텍스트 블럭\ch3 텍스트 블럭\bin\Debug\net7.0-windows\ch3 텍스트 블럭.pdb
+C:\Users\N-238\Desktop\기부키오스크\kiosk_study\kiosk-study\ch3 텍스트 블럭\ch3 텍스트 블럭\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\N-238\Desktop\기부키오스크\kiosk_study\kiosk-study\ch3 텍스트 블럭\ch3 텍스트 블럭\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\N-238\Desktop\기부키오스크\kiosk_study\kiosk-study\ch3 텍스트 블럭\ch3 텍스트 블럭\obj\Debug\net7.0-windows\ch3 텍스트 블럭_MarkupCompile.cache
+C:\Users\N-238\Desktop\기부키오스크\kiosk_study\kiosk-study\ch3 텍스트 블럭\ch3 텍스트 블럭\obj\Debug\net7.0-windows\ch3 텍스트 블럭_MarkupCompile.lref
+C:\Users\N-238\Desktop\기부키오스크\kiosk_study\kiosk-study\ch3 텍스트 블럭\ch3 텍스트 블럭\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\N-238\Desktop\기부키오스크\kiosk_study\kiosk-study\ch3 텍스트 블럭\ch3 텍스트 블럭\obj\Debug\net7.0-windows\ch3 텍스트 블럭.g.resources
+C:\Users\N-238\Desktop\기부키오스크\kiosk_study\kiosk-study\ch3 텍스트 블럭\ch3 텍스트 블럭\obj\Debug\net7.0-windows\ch3 텍스트 블럭.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\N-238\Desktop\기부키오스크\kiosk_study\kiosk-study\ch3 텍스트 블럭\ch3 텍스트 블럭\obj\Debug\net7.0-windows\ch3 텍스트 블럭.AssemblyInfoInputs.cache
+C:\Users\N-238\Desktop\기부키오스크\kiosk_study\kiosk-study\ch3 텍스트 블럭\ch3 텍스트 블럭\obj\Debug\net7.0-windows\ch3 텍스트 블럭.AssemblyInfo.cs
+C:\Users\N-238\Desktop\기부키오스크\kiosk_study\kiosk-study\ch3 텍스트 블럭\ch3 텍스트 블럭\obj\Debug\net7.0-windows\ch3 텍스트 블럭.csproj.CoreCompileInputs.cache
+C:\Users\N-238\Desktop\기부키오스크\kiosk_study\kiosk-study\ch3 텍스트 블럭\ch3 텍스트 블럭\obj\Debug\net7.0-windows\ch3 텍스트 블럭.dll
+C:\Users\N-238\Desktop\기부키오스크\kiosk_study\kiosk-study\ch3 텍스트 블럭\ch3 텍스트 블럭\obj\Debug\net7.0-windows\refint\ch3 텍스트 블럭.dll
+C:\Users\N-238\Desktop\기부키오스크\kiosk_study\kiosk-study\ch3 텍스트 블럭\ch3 텍스트 블럭\obj\Debug\net7.0-windows\ch3 텍스트 블럭.pdb
+C:\Users\N-238\Desktop\기부키오스크\kiosk_study\kiosk-study\ch3 텍스트 블럭\ch3 텍스트 블럭\obj\Debug\net7.0-windows\ch3 텍스트 블럭.genruntimeconfig.cache
+C:\Users\N-238\Desktop\기부키오스크\kiosk_study\kiosk-study\ch3 텍스트 블럭\ch3 텍스트 블럭\obj\Debug\net7.0-windows\ref\ch3 텍스트 블럭.dll
